@@ -1,8 +1,3 @@
-vvvv NO
-
-One house has many students. A student has one house.
-
-
 # Harry Potter Relations Lab
 
 In the world of Harry Potter, each school (such as Hogwarts) has many Houses, which each have many students. Any given student can only belong to one house.
